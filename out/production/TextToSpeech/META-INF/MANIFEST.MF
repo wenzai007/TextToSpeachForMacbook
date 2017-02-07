@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/Knight/Documents/workspace/TextToSpeech/lib/jnative
+ hook-2.0.2.jar
+Main-Class: main.GlobalKeyListenerExample
+
