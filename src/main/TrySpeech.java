@@ -86,12 +86,12 @@ public class TrySpeech extends Frame {
 			if(stopAllFunction==true){
 				stopOrContRead(nowPid,1);
 
-				System.out.println("\n------ stop all function now ,if you want to start again,please press command+p again! ");
+				System.out.println("\n------ stop all function now ,if you want to start again,please press command+backSpace again! ");
 			}
 			else {
 
 				stopOrContRead(nowPid,2);
-				System.out.println("\n------ ^^ start all function now ,if you want to stop,please press command+p! ");
+				System.out.println("\n------ ^^ start all function now ,if you want to stop,please press command+backSpace! ");
 			}
 		}
 
